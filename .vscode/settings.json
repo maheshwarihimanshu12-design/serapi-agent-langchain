@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/himanshumaheshwari/.nvm/versions/node/v20.20.2/bin:${env:PATH}"
+  },
+  "debug.javascript.defaultRuntimeExecutable": "/Users/himanshumaheshwari/.nvm/versions/node/v20.20.2/bin/node"
+}
